@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Portfolio Management ...
 - 🌱 I’m currently learning Synapse ...
-- 🗞️ [Browse my Blog](https://padamshrestha.github.io/)
+- 🗞️ [Blog](https://padamshrestha.github.io/)
 - 🖥️ [Core Computer Science](https://padamshrestha.github.io/algorithms/)
 
 
