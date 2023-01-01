@@ -10,4 +10,4 @@
 
 
 ![Status](https://github-readme-stats.vercel.app/api?username=padamshrestha&show_icons=true&theme=gruvbox)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padamshrestha&theme=onedark)](https://github.com/padamshrestha/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padamshrestha&layout=compact&theme=onedark)](https://github.com/padamshrestha/github-readme-stats)
